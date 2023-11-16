@@ -7,7 +7,7 @@ author:
 
 # Doktor Sveznalica – e-Lektire
 
-> ## Excerpt
+
 > Bio siromah seljak po imenu Rak. Taj jednoga dana dovezao u grad tovar drva te ih prodao nekom doktoru. Doktor je upravo ručao, te seljak, kad je primao novac, vidje kako doktor lijepo jede i pije…
 
 ---

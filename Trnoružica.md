@@ -7,7 +7,7 @@ author:
 
 # Trnoružica – e-Lektire
 
-> ## Excerpt
+
 > Živjeli nekoć kralj i kraljica te iz dana u dan govorili: »Ah, da nam je dijete!« Ali im se želja nije ispunjala. Jednom se kraljica kupala, kadli iz vode iziđe žaba i progovori: – Tvoja će se želja…
 
 ---

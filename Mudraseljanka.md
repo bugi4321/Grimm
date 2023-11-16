@@ -7,7 +7,7 @@ author:
 
 # Mudra seljanka – e-Lektire
 
-> ## Excerpt
+
 > Bio neki siromašan seljak bez zemlje; imao samo malu kućicu i jedinicu kćer. Jednoga dana reče kći ocu: – Mogli bismo zamoliti svoga kralja i gospodara, da nam dâ nešto krčevine. Kad je kralj čuo o…
 
 ---

@@ -7,7 +7,7 @@ author:
 
 # Kralj Bradonja – e-Lektire
 
-> ## Excerpt
+
 > Imao neki kralj kćer, koja je bila neobično lijepa, ali ohola i obijesna, te joj nijedan prosac nije bio po volji. Odbijala ih sve jednoga za drugim, i još im se povrh toga rugala.
 
 ---

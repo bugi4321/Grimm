@@ -7,7 +7,7 @@ author:
 
 # Sretni Ivo – e-Lektire
 
-> ## Excerpt
+
 > Ivo svome gospodaru služio sedam godina, a onda mu rekao: – Gospodaru, moje je vrijeme prošlo, i ja bih opet htio svojoj majci; dajte mi moju plaću. – Služio si mi vjerno i pošteno…
 
 ---

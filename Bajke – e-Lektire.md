@@ -7,7 +7,7 @@ author:
 
 # Bajke – e-Lektire
 
-> ## Excerpt
+
 > Ova web stranica koristi kolačiće (cookies). Neki od tih kolačića nužni su za ispravno funkcioniranje stranice, dok se drugi koriste za praćenje korištenja stranice radi poboljšanja korisničkog iskustva. Klikom na "SAZNAJ VIŠE" možete saznati kako isključiti neželjene kolačiće. Nastavkom korištenja stranica suglasni ste s primanjem kolačića.PRIHVAĆAMSAZNAJ VIŠE
 
 ---

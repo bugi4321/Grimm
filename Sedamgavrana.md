@@ -7,7 +7,7 @@ author:
 
 # Sedam gavrana – e-Lektire
 
-> ## Excerpt
+
 > Imao neki čovjek sedam sinova, a nijedne kćeri, premda je želio; napokon se njegova žena opet ponada djetetu, i rodi djevojčicu. Radost bijaše velika, ali dijete slabašno i malo, pa ga dakle trebalo…
 
 ---

@@ -7,7 +7,6 @@ author:
 
 # Mudri ljudi – e-Lektire
 
-> ## Excerpt
 > Jednoga dana neki seljak uzme iz zakutka grabovu batinu i rekne svojoj ženi: – Katice, ja ću malko u svijet; vraćam se za tri dana. Dođe li trgovac da kupi naše tri krave, možeš ih prodati…
 
 ---
